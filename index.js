@@ -1,64 +1,67 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
 
-const readMeTemplate = `# readMe-gen
+inquirer
+	.prompt([
+		{
+			type: "input",
+			message: "What is the title of your README.md?",
+			name: "title",
+		},
+		{
+			type: "input",
+			message: "Please give a description of your project",
+			name: "description",
+		},
+		{
+			type: "input",
+			message: "Please give installation instructions",
+			name: "installation",
+		},
+		{
+			type: "input",
+			message: "Please give usage information",
+			name: "usage",
+		},
+		{
+			type: "input",
+			message: "Please list contribution guidelines",
+			name: "contributors",
+		},
+		{
+			type: "input",
+			message: "Please give testing instructions",
+			name: "testing",
+		},
+	])
+	.then((answers) => {
+		console.log(answers);
 
-\${title};
+		const readMeTemplate = `# readMe-gen
 
-Project Description:
-\${description};
+${answers.title};
+
+// Project Description:
+// ${answers.description};
 
 Installation Instructions:
-\${instructions};
+${answers.installation};
 
 Usage Information:
-\${usage};
+${answers.usage};
 
 Contribution Guidelines
-\${contributors};
+${answers.contributors};
 
 Testing Instructions
-\${testing};
+${answers.testing};
 `;
-fs.writeFile("README.md", readMeTemplate, "utf8", (err) => {
-	if (err) throw err;
-	console.log("Successfully wrote README.md file!");
-});
 
-// inquirer
-// 	.prompt([
-// 		{
-// 			type: "input",
-// 			message: "What is the title of your README.md?",
-// 			name: "title",
-// 		},
-// 		{
-// 			type: "input",
-// 			message: "Please give a description of your project",
-// 			name: "description",
-// 		},
-// 		{
-// 			type: "input",
-// 			message: "Please give installation instructions",
-// 			name: "installation",
-// 		},
-// 		{
-// 			type: "input",
-// 			message: "Please give usage information",
-// 			name: "usage",
-// 		},
-// 		{
-// 			type: "input",
-// 			message: "Please list contribution guidelines",
-// 			name: "contributors",
-// 		},
-// 		{
-// 			type: "input",
-// 			message: "Please give testing instructions",
-// 			name: "testing",
-// 		},
-// 	])
-// 	.then((answers) => console.log("Hello World"));
+		fs.writeFile("README.md", readMeTemplate, "utf8", (err) => {
+			if (err) throw err;
+			console.log("Successfully wrote README.md file!");
+		});
+	});
 
 //     title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 // WHEN I enter my project title

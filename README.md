@@ -1,18 +1,18 @@
 # readMe-gen
 
-${title};
+The README Genorator Project;
 
-Project Description:
-${description};
+// Project Description:
+// This project allows me to use all the skils that I've learned in Node.js to build a README file genorator;
 
 Installation Instructions:
-${instructions};
+undefined;
 
 Usage Information:
-${usage};
+Usage of this products is unlimited;
 
 Contribution Guidelines
-${contributors};
+Geoffrey Nix is the only contributor;
 
 Testing Instructions
-${testing};
+Testing has benn done extensively;
