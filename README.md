@@ -1,6 +1,6 @@
 # readMe-gen
 
-Kiara;
+Please;
 ================================================
 
 Table of Contents
@@ -14,30 +14,31 @@ Table of Contents
 ================================================
 
 Project Description:
-Kiara;
+Please;
 
 ================================================
 
 Installation Instructions:
-Kiara;
+Please;
 
 ================================================
 
 Usage Information:
-Kiara;
+Please;
 
 ================================================
 
 Contribution Guidelines
-Kiara;
+Please;
 
 ================================================
 
 Testing Instructions
-Kiara;
+Please;
 
 ================================================
 
 Questions
-[I can be reached by email with any additional questions.](mailto:nicewithands@gmail.com) 
+Please feel free to email me w/any additional questions fullstackgeoff@gmail.com[link](mailto:fullstackgeoff@gmail.com) 
+
 [Github Account](https://www.Github.com/FSGeoff);
