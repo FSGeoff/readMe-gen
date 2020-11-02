@@ -62,34 +62,35 @@ Table of Contents
 
 ================================================
 
-Project Description:
+Project Description: \n
 ${answers.description};
 
 ================================================
 
-Installation Instructions:
+Installation Instructions: \n
 ${answers.installation};
 
 ================================================
 
-Usage Information:
+Usage Information: \n
 ${answers.usage};
 
 ================================================
 
-Contribution Guidelines
+Contribution Guidelines \n
 ${answers.contributors};
 
 ================================================
 
-Testing Instructions
+Testing Instructions \n
 ${answers.testing};
 
 ================================================
 
-Questions
-Please feel free to email me w/any additional questions ${answers.email}\n
-[Github Account](https://www.Github.com/${answers.github});
+Questions \n
+Please feel free to email me w/any additional questions \n
+ ${answers.email}\n
+[Github Account](https://www.Github.com/${answers.github})
 `;
 
 		fs.writeFile("README.md", readMeTemplate, "utf8", (err) => {
