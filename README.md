@@ -1,45 +1,51 @@
 # readMe-gen
 
-12345678;
+It's Getting Late;
 ================================================
 
-Table of Contents
+Table of Contents 
+
 -Description
+
 -Installation Instructions
+
 -Usage Information
+
 -Contribution Guidelines
+
 -Testing Instruction
+
 -Questions
 
 ================================================
 
 Project Description: 
 
-12345678;
+It's Getting Late;
 
 ================================================
 
 Installation Instructions: 
 
-12345678;
+It's Getting Late;
 
 ================================================
 
 Usage Information: 
 
-12345678;
+It's Getting Late;
 
 ================================================
 
 Contribution Guidelines 
 
-12345678;
+It's Getting Late;
 
 ================================================
 
 Testing Instructions 
 
-12345678;
+It's Getting Late;
 
 ================================================
 
@@ -49,4 +55,4 @@ Please feel free to email me w/any additional questions
 
  nicewithands@gmail.com
 
-[Github Account](https://www.Github.com/fsgeoff	)
+[Github Account](https://www.Github.com/fsgeoff)
