@@ -1,6 +1,6 @@
 # readMe-gen
 
-Inity;
+Kiara;
 ================================================
 
 Table of Contents
@@ -14,30 +14,30 @@ Table of Contents
 ================================================
 
 Project Description:
-Inity;
+Kiara;
 
 ================================================
 
 Installation Instructions:
-Inity;
+Kiara;
 
 ================================================
 
 Usage Information:
-Inity;
+Kiara;
 
 ================================================
 
 Contribution Guidelines
-Inity;
+Kiara;
 
 ================================================
 
 Testing Instructions
-Inity;
+Kiara;
 
 ================================================
 
 Questions
-[I can be reached by email with any additional questions.](fulstackgeoff@gmail.com) 
-[Github Account](https://www.Github.com/FSGeoff	);
+[I can be reached by email with any additional questions.](mailto:nicewithands@gmail.com) 
+[Github Account](https://www.Github.com/FSGeoff);
