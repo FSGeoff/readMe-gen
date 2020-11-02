@@ -52,12 +52,12 @@ inquirer
 ${answers.title};
 ================================================
 
-Table of Contents
--Description
--Installation Instructions
--Usage Information
--Contribution Guidelines
--Testing Instruction
+Table of Contents \n
+-Description\n
+-Installation Instructions\n
+-Usage Information\n
+-Contribution Guidelines\n
+-Testing Instruction\n
 -Questions
 
 ================================================
