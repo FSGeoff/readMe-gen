@@ -1,6 +1,6 @@
 # readMe-gen
 
-Please;
+Last time tonight;
 ================================================
 
 Table of Contents
@@ -14,31 +14,33 @@ Table of Contents
 ================================================
 
 Project Description:
-Please;
+Last time tonight;
 
 ================================================
 
 Installation Instructions:
-Please;
+Last time tonight;
 
 ================================================
 
 Usage Information:
-Please;
+Last time tonight;
 
 ================================================
 
 Contribution Guidelines
-Please;
+Last time tonight;
 
 ================================================
 
 Testing Instructions
-Please;
+Last time tonight;
 
 ================================================
 
 Questions
-Please feel free to email me w/any additional questions fullstackgeoff@gmail.com[link](mailto:fullstackgeoff@gmail.com) 
+Please feel free to email me w/any additional questions fullstackgeoff@gmail.com
+
+[Direct link to email](mailto:fullstackgeoff@gmail.com) 
 
 [Github Account](https://www.Github.com/FSGeoff);
