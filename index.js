@@ -38,6 +38,11 @@ inquirer
 			message: "What is your Github user name?",
 			name: "github",
 		},
+		{
+			type: "input",
+			message: "What is your email?",
+			name: "email",
+		},
 	])
 	.then((answers) => {
 		console.log(answers);
@@ -83,6 +88,7 @@ ${answers.testing};
 ================================================
 
 Questions
+[I can be reached by email with any additional questions.](${answers.email}) 
 [Github Account](https://www.Github.com/${answers.github});
 `;
 

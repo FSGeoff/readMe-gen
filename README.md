@@ -1,6 +1,6 @@
 # readMe-gen
 
-geoff;
+Inity;
 ================================================
 
 Table of Contents
@@ -14,29 +14,30 @@ Table of Contents
 ================================================
 
 Project Description:
-geoff;
+Inity;
 
 ================================================
 
 Installation Instructions:
-geoff;
+Inity;
 
 ================================================
 
 Usage Information:
-geoff;
+Inity;
 
 ================================================
 
 Contribution Guidelines
-geoff;
+Inity;
 
 ================================================
 
 Testing Instructions
-geoff;
+Inity;
 
 ================================================
 
 Questions
-[Github Account](https://www.Github.com/FSGeoff);
+[I can be reached by email with any additional questions.](fulstackgeoff@gmail.com) 
+[Github Account](https://www.Github.com/FSGeoff	);
