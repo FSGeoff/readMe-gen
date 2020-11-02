@@ -40,21 +40,44 @@ inquirer
 		const readMeTemplate = `# readMe-gen
 
 ${answers.title};
+================================================
 
-// Project Description:
-// ${answers.description};
+Table of Contents
+-Description
+-Installation Instructions
+-Usage Information
+-Contribution Guidelines
+-Testing Instruction
+-Questions
+
+================================================
+
+Project Description:
+${answers.description};
+
+================================================
 
 Installation Instructions:
 ${answers.installation};
 
+================================================
+
 Usage Information:
 ${answers.usage};
+
+================================================
 
 Contribution Guidelines
 ${answers.contributors};
 
+================================================
+
 Testing Instructions
 ${answers.testing};
+
+================================================
+
+Questions
 `;
 
 		fs.writeFile("README.md", readMeTemplate, "utf8", (err) => {
