@@ -1,6 +1,6 @@
 # readMe-gen
 
-Bootcamp README.md Generator;
+README.md File Generator;
 ================================================
 
 Table of Contents 
@@ -21,31 +21,31 @@ Table of Contents
 
 Project Description: 
 
-This project is the creation of a README generator that will take input from the user and  populate a predetermined README.md template with the user’s input including a GitHub and email link.;
+This application will take user input in the categories of Description, Installation Instructions, Usage Information, Contribution Guidelines, Testing Instructions, and Questions. The user will be prompted to give data in all the fore-mentioned categories and the application will take the user input and create a README.md document. The application will also provide links to the email and Github page of the developer of the project. ;
 
 ================================================
 
 Installation Instructions: 
 
-Installed the initial JSON Package to track all dependencies;
+Installed initial JSON package to track all dependencies, and installed Inquirer node.js package;
 
 ================================================
 
 Usage Information: 
 
-Installed the NPM Inquirer Package;
+The application will be initiated in the terminal w/the command 'node.index.js';
 
 ================================================
 
 Contribution Guidelines 
 
-The application will be initiated in the terminal by the user via the command: node index.js;
+Uses built in Node.js package functionalities(fs) and the Inquirer package which uses the prompt() function. All development done by Geoff Nix;
 
 ================================================
 
 Testing Instructions 
 
-The application is available to be tested from any terminal. The app is launched thru the terminal via the ‘node index.js’ command;
+The application can be tested from any terminal w/the terminal command 'node index.js';
 
 ================================================
 
@@ -53,6 +53,6 @@ Questions
 
 Please feel free to email me w/any additional questions 
 
- nicewithands@gmail.com
+ fullstackgeoff@gmail.com
 
 [Github Account](https://www.Github.com/fsgeoff)
