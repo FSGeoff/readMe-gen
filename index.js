@@ -43,51 +43,59 @@ inquirer
 			message: "What is your email?",
 			name: "email",
 		},
+		{
+			type: "list",
+			message: "Please choose a license.",
+			name: "license",
+			choices: ["ISC", "MIT"],
+		},
 	])
 	.then((answers) => {
 		console.log(answers);
 
 		const readMeTemplate = `# readMe-gen
 
-${answers.title};
+${answers.title}
 ================================================
+
+[![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-blue.svg)](https://opensource.org/licenses/${answers.license})
 
 Table of Contents \n
--Description\n
--Installation Instructions\n
--Usage Information\n
--Contribution Guidelines\n
--Testing Instruction\n
--Questions
+*[Project Description](#project-description)\n
+*[Installation Instructions](#installation-instructions)\n
+*[Usage Information](#usage-information)\n
+*[Contribution Guidelines](#contribution-guidelines)\n
+*[Testing Instruction](#testing-instructions)\n
+*[Questions](#questions)
 
 ================================================
 
-Project Description: \n
-${answers.description};
+## Project Description: \n
+${answers.description}
 
 ================================================
 
-Installation Instructions: \n
-${answers.installation};
+## Installation Instructions: \n
+${answers.installation}
 
 ================================================
 
-Usage Information: \n
-${answers.usage};
+## Usage Information: \n
+${answers.usage}
 
 ================================================
 
-Contribution Guidelines \n
-${answers.contributors};
+## Contribution Guidelines \n
+${answers.contributors}
 
 ================================================
 
-Testing Instructions \n
-${answers.testing};
+## Testing Instructions \n
+${answers.testing}
 
 ================================================
 
-Questions \n
+## Questions \n
 Please feel free to email me w/any additional questions \n
  ${answers.email}\n
 [Github Account](https://www.Github.com/${answers.github})

@@ -1,58 +1,60 @@
 # readMe-gen
 
-README.md File Generator;
+Test
 ================================================
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Table of Contents 
 
--Description
+*[Project Description](#project-description)
 
--Installation Instructions
+*[Installation Instructions](#installation-instructions)
 
--Usage Information
+*[Usage Information](#usage-information)
 
--Contribution Guidelines
+*[Contribution Guidelines](#contribution-guidelines)
 
--Testing Instruction
+*[Testing Instruction](#testing-instructions)
 
--Questions
-
-================================================
-
-Project Description: 
-
-This application will take user input in the categories of Description, Installation Instructions, Usage Information, Contribution Guidelines, Testing Instructions, and Questions. The user will be prompted to give data in all the fore-mentioned categories and the application will take the user input and create a README.md document. The application will also provide links to the email and Github page of the developer of the project. ;
+*[Questions](#questions)
 
 ================================================
 
-Installation Instructions: 
+## Project Description: 
 
-Installed initial JSON package to track all dependencies, and installed Inquirer node.js package;
-
-================================================
-
-Usage Information: 
-
-The application will be initiated in the terminal w/the command 'node.index.js';
+Test
 
 ================================================
 
-Contribution Guidelines 
+## Installation Instructions: 
 
-Uses built in Node.js package functionalities(fs) and the Inquirer package which uses the prompt() function. All development done by Geoff Nix;
-
-================================================
-
-Testing Instructions 
-
-The application can be tested from any terminal w/the terminal command 'node index.js';
+Test
 
 ================================================
 
-Questions 
+## Usage Information: 
+
+Test
+
+================================================
+
+## Contribution Guidelines 
+
+Test
+
+================================================
+
+## Testing Instructions 
+
+Test
+
+================================================
+
+## Questions 
 
 Please feel free to email me w/any additional questions 
 
- fullstackgeoff@gmail.com
+ nicewithands@gmail.com
 
 [Github Account](https://www.Github.com/fsgeoff)
