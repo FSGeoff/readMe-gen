@@ -88,7 +88,7 @@ ${answers.testing};
 ================================================
 
 Questions
-[I can be reached by email with any additional questions.](${answers.email}) 
+[I can be reached by email with any additional questions.](mailto:${answers.email}) 
 [Github Account](https://www.Github.com/${answers.github});
 `;
 
