@@ -88,7 +88,7 @@ ${answers.testing};
 ================================================
 
 Questions
-[I can be reached by email with any additional questions.](mailto:${answers.email}) 
+Please feel free to email me w/any additional questions ${answers.email}[link](mailto:${answers.email}) \n
 [Github Account](https://www.Github.com/${answers.github});
 `;
 
