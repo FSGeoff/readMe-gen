@@ -1,6 +1,6 @@
 # readMe-gen
 
-Last time tonight;
+Please Baby!;
 ================================================
 
 Table of Contents
@@ -14,33 +14,31 @@ Table of Contents
 ================================================
 
 Project Description:
-Last time tonight;
+Please Baby!;
 
 ================================================
 
 Installation Instructions:
-Last time tonight;
+Please Baby!;
 
 ================================================
 
 Usage Information:
-Last time tonight;
+Please Baby!;
 
 ================================================
 
 Contribution Guidelines
-Last time tonight;
+Please Baby!;
 
 ================================================
 
 Testing Instructions
-Last time tonight;
+Please Baby!;
 
 ================================================
 
 Questions
-Please feel free to email me w/any additional questions fullstackgeoff@gmail.com
+Please feel free to email me w/any additional questions nicewithands@gmail.com
 
-[Direct link to email](mailto:fullstackgeoff@gmail.com) 
-
-[Github Account](https://www.Github.com/FSGeoff);
+[Github Account](https://www.Github.com/GSGeoff);
