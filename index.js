@@ -1,40 +1,64 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
 
-inquirer
-	.prompt([
-		{
-			type: "input",
-			message: "What is the title of your README.md?",
-			name: "title",
-		},
-		{
-			type: "input",
-			message: "Please give a description of your project",
-			name: "description",
-		},
-		{
-			type: "input",
-			message: "Please give installation instructions",
-			name: "installation",
-		},
-		{
-			type: "input",
-			message: "Please give usage information",
-			name: "usage",
-		},
-		{
-			type: "input",
-			message: "Please list contribution guidelines",
-			name: "contributors",
-		},
-		{
-			type: "input",
-			message: "Please give testing instructions",
-			name: "testing",
-		},
-	])
-	.then((answers) => console.log("Hello World"));
+const readMeTemplate = `# readMe-gen
+
+\${title};
+
+Project Description:
+\${description};
+
+Installation Instructions:
+\${instructions};
+
+Usage Information:
+\${usage};
+
+Contribution Guidelines
+\${contributors};
+
+Testing Instructions
+\${testing};
+`;
+fs.writeFile("README.md", readMeTemplate, "utf8", (err) => {
+	if (err) throw err;
+	console.log("Successfully wrote README.md file!");
+});
+
+// inquirer
+// 	.prompt([
+// 		{
+// 			type: "input",
+// 			message: "What is the title of your README.md?",
+// 			name: "title",
+// 		},
+// 		{
+// 			type: "input",
+// 			message: "Please give a description of your project",
+// 			name: "description",
+// 		},
+// 		{
+// 			type: "input",
+// 			message: "Please give installation instructions",
+// 			name: "installation",
+// 		},
+// 		{
+// 			type: "input",
+// 			message: "Please give usage information",
+// 			name: "usage",
+// 		},
+// 		{
+// 			type: "input",
+// 			message: "Please list contribution guidelines",
+// 			name: "contributors",
+// 		},
+// 		{
+// 			type: "input",
+// 			message: "Please give testing instructions",
+// 			name: "testing",
+// 		},
+// 	])
+// 	.then((answers) => console.log("Hello World"));
 
 //     title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 // WHEN I enter my project title
