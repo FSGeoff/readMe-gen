@@ -1,18 +1,42 @@
 # readMe-gen
 
-The README Genorator Project;
+geoff;
+================================================
 
-// Project Description:
-// This project allows me to use all the skils that I've learned in Node.js to build a README file genorator;
+Table of Contents
+-Description
+-Installation Instructions
+-Usage Information
+-Contribution Guidelines
+-Testing Instruction
+-Questions
+
+================================================
+
+Project Description:
+geoff;
+
+================================================
 
 Installation Instructions:
-undefined;
+geoff;
+
+================================================
 
 Usage Information:
-Usage of this products is unlimited;
+geoff;
+
+================================================
 
 Contribution Guidelines
-Geoffrey Nix is the only contributor;
+geoff;
+
+================================================
 
 Testing Instructions
-Testing has benn done extensively;
+geoff;
+
+================================================
+
+Questions
+[Github Account](https://www.Github.com/FSGeoff);

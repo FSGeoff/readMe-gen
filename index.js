@@ -33,6 +33,11 @@ inquirer
 			message: "Please give testing instructions",
 			name: "testing",
 		},
+		{
+			type: "input",
+			message: "What is your Github user name?",
+			name: "github",
+		},
 	])
 	.then((answers) => {
 		console.log(answers);
@@ -78,6 +83,7 @@ ${answers.testing};
 ================================================
 
 Questions
+[Github Account](https://www.Github.com/${answers.github});
 `;
 
 		fs.writeFile("README.md", readMeTemplate, "utf8", (err) => {
