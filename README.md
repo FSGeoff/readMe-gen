@@ -1,6 +1,6 @@
 # readMe-gen
 
-It's Getting Late;
+Bootcamp README.md Generator;
 ================================================
 
 Table of Contents 
@@ -21,31 +21,31 @@ Table of Contents
 
 Project Description: 
 
-It's Getting Late;
+This project is the creation of a README generator that will take input from the user and  populate a predetermined README.md template with the user’s input including a GitHub and email link.;
 
 ================================================
 
 Installation Instructions: 
 
-It's Getting Late;
+Installed the initial JSON Package to track all dependencies;
 
 ================================================
 
 Usage Information: 
 
-It's Getting Late;
+Installed the NPM Inquirer Package;
 
 ================================================
 
 Contribution Guidelines 
 
-It's Getting Late;
+The application will be initiated in the terminal by the user via the command: node index.js;
 
 ================================================
 
 Testing Instructions 
 
-It's Getting Late;
+The application is available to be tested from any terminal. The app is launched thru the terminal via the ‘node index.js’ command;
 
 ================================================
 
