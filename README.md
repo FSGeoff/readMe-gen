@@ -1,7 +1,8 @@
 # README.md File Generator
 
-Description:
-This application will accept user input and create a README.md document. Functionalities of the application will be as followed:
+Description:\n
+This application will accept user input and create a README.md document. Functionalities of the application will be:
+
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -19,22 +20,22 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 =========================
 
-Installation Instructions:
+Installation Instructions:\n
 Installed the JSON package to track dependencies and installed NPM Inquirer
 =========================
 
-Usage Information:
+Usage Information:\n
 The application will be used as a time-saving way to prepare a README.md file
 =========================
 
-Contribution Guidelines:
+Contribution Guidelines:\n
 
 1. Initial JSON package
 2. NPM Inquirer
 3. # Development by Geoff Nix
 
-Testing Instructions:
+Testing Instructions:\n
 Application has been tested extensively in the terminal
 =========================
 
-QUESTIONS
+QUESTIONS\n
