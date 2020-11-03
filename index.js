@@ -48,12 +48,13 @@ inquirer
 			message: "Please choose a license.",
 			name: "license",
 			choices: ["ISC", "MIT"],
+			default: ["ISC"],
 		},
 	])
 	.then((answers) => {
 		console.log(answers);
 
-		const readMeTemplate = `# readMe-gen
+		const readMeTemplate = `
 
 ${answers.title}
 ================================================
@@ -101,7 +102,7 @@ Please feel free to email me w/any additional questions \n
 [Github Account](https://www.Github.com/${answers.github})
 `;
 
-		fs.writeFile("README.md", readMeTemplate, "utf8", (err) => {
+		fs.writeFile("README2.md", readMeTemplate, "utf8", (err) => {
 			if (err) throw err;
 			console.log("Successfully wrote README.md file!");
 		});
