@@ -27,7 +27,7 @@ Installed the JSON package to track dependencies and installed NPM Inquirer
 
 ## Usage Information:
 
-# The application will be used as a time-saving way to prepare a README.md file
+The application will be used as a time-saving way to prepare a README.md file
 
 ## Contribution Guidelines:
 
@@ -40,3 +40,5 @@ Application has been tested extensively in the terminal
 =========================
 
 ## QUESTIONS
+
+[Github Link](https://github.com/FSGeoff/readMe-gen.git)
