@@ -32,4 +32,4 @@
 
 [Github Link](https://github.com/FSGeoff/readMe-gen.git)
 
-[Email](mailto:fullstackgeoff@gmail.com?subject=[GitHub] README.md generator)
+[Email](mailto:fullstackgeoff@gmail.com?)
