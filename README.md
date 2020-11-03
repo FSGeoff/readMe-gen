@@ -21,22 +21,31 @@ THEN I am taken to the corresponding section of the README
 =========================
 
 Installation Instructions:
+
+
 Installed the JSON package to track dependencies and installed NPM Inquirer
 =========================
 
 Usage Information:
+
+
 The application will be used as a time-saving way to prepare a README.md file
 =========================
 
 Contribution Guidelines:
 
+
 1. Initial JSON package
 2. NPM Inquirer
-3. # Development by Geoff Nix
+3. Development by Geoff Nix
 
-Testing Instructions:\n
+Testing Instructions:
+
+
 Application has been tested extensively in the terminal
 =========================
 
 QUESTIONS
+
+
 [Github Link](https://github.com/FSGeoff/readMe-gen.git)
