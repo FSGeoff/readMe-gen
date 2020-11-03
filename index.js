@@ -57,7 +57,7 @@ inquirer
 		const readMeTemplate = `
 
 ${answers.title}\n
-________________
+
 
 [![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-blue.svg)](https://opensource.org/licenses/${answers.license})
 
