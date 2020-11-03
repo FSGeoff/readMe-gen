@@ -27,6 +27,9 @@
 #### Application has been tested extensively in the terminal
 
 ## Screenshots
+![](Screenshots/readMe1.png)
+![](Screenshots/readMe2.png)
+![](Screenshots/readMe3.png)
 
 ## QUESTIONS
 
