@@ -56,12 +56,11 @@ inquirer
 
 		const readMeTemplate = `
 
-${answers.title}\n
-
+ # ${answers.title}
 
 [![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-blue.svg)](https://opensource.org/licenses/${answers.license})
 
-________________
+
 ## Table of Contents \n
 *[Project Description](#project-description)\n
 *[Installation Instructions](#installation-instructions)\n
@@ -72,12 +71,12 @@ ________________
 
 
 _______________________\n
-## Project Description: \n
+## Project Description \n
 ${answers.description}
 
 
 _____________________________\n
-## Installation Instructions: \n
+## Installation Instructions \n
 ${answers.installation}
 
 
