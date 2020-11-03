@@ -28,7 +28,7 @@
 
 ## Screenshots
 
-[1](readMe1.png)
+[1](./screenshots/readMe1.png)
 
 [2](readMe2.png)
 
