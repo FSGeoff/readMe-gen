@@ -26,15 +26,13 @@
 
 #### Application has been tested extensively in the terminal
 
-=========================
-
 ## Screenshots
 
 [1](readMe1.png)
 
 [2](readMe2.png)
 
-# [3](readMe3.png)
+[3](readMe3.png)
 
 ## QUESTIONS
 
