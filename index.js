@@ -56,11 +56,12 @@ inquirer
 
 		const readMeTemplate = `
 
-${answers.title}
-================
+${answers.title}\n
+________________
 
 [![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-blue.svg)](https://opensource.org/licenses/${answers.license})
 
+________________
 Table of Contents \n
 *[Project Description](#project-description)\n
 *[Installation Instructions](#installation-instructions)\n
@@ -70,37 +71,32 @@ Table of Contents \n
 *[Questions](#questions)
 
 
-
+_______________________\n
 ## Project Description: \n
-=======================
 ${answers.description}
 
 
-
+_____________________________\n
 ## Installation Instructions: \n
-=============================
 ${answers.installation}
 
 
-
+____________________\n
 ## Usage Information \n
-=====================
 ${answers.usage}
 
 
-
+__________________________\n
 ## Contribution Guidelines \n
-==========================
 ${answers.contributors}
 
 
-
+_______________________\n
 ## Testing Instructions \n
-=======================
 ${answers.testing}
 
 
-
+______________\n
 ## Questions \n
 Please feel free to email me w/any additional questions \n
  ${answers.email}\n
