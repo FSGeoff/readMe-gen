@@ -62,7 +62,7 @@ ${answers.title}\n
 [![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-blue.svg)](https://opensource.org/licenses/${answers.license})
 
 ________________
-Table of Contents \n
+## Table of Contents \n
 *[Project Description](#project-description)\n
 *[Installation Instructions](#installation-instructions)\n
 *[Usage Information](#usage-information)\n
@@ -108,6 +108,3 @@ Please feel free to email me w/any additional questions \n
 			console.log("Successfully wrote README.md file!");
 		});
 	});
-
-// WHEN I click on the links in the Table of Contents
-// THEN I am taken to the corresponding section of the README
