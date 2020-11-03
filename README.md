@@ -28,6 +28,14 @@
 
 =========================
 
+## Screenshots
+
+[1](readMe1.png)
+
+[2](readMe2.png)
+
+# [3](readMe3.png)
+
 ## QUESTIONS
 
 [Github Link](https://github.com/FSGeoff/readMe-gen.git)
