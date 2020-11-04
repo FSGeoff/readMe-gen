@@ -101,8 +101,8 @@ Please feel free to email me w/any additional questions \n
  ${answers.email}\n
 [Github Account](https://www.Github.com/${answers.github})
 `;
-		const time = Date.now();
-		fs.writeFile("time.md", readMeTemplate, "utf8", (err) => {
+		const generatedREADME = Date.now();
+		fs.writeFile("generatedREADME.md", readMeTemplate, "utf8", (err) => {
 			if (err) throw err;
 			console.log("Successfully wrote README.md file!");
 		});

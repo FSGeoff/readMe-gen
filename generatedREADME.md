@@ -1,6 +1,6 @@
 
 
- # User
+ # README.md Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -24,35 +24,35 @@ _______________________
 
 ## Project Description 
 
-User
+This application takes user input and dynamically creates a README.md file
 
 
 _____________________________
 
 ## Installation Instructions 
 
-User
+Installed initial JSON package to track dependencies. Installed NPM Inquirer to utilize prompt()
 
 
 ____________________
 
 ## Usage Information 
 
-User
+Usage will be as needed for creation of README.md files and will save time
 
 
 __________________________
 
 ## Contribution Guidelines 
 
-User
+JSON Package. NPM Inquirer. Development by Geoff Nix
 
 
 _______________________
 
 ## Testing Instructions 
 
-User
+Test application by running 'node index.js' from the command line in the terminal.
 
 
 ______________
@@ -61,6 +61,6 @@ ______________
 
 Please feel free to email me w/any additional questions 
 
- m@e.com
+ FullStackGeoff@gmail.com
 
 [Github Account](https://www.Github.com/fsgeoff)
